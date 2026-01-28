@@ -1,0 +1,7 @@
+Welcome to my Lab 1 Results!!
+
+In this lab, we covered the basics of Android Studio. I was able to fork Professor Morris's repository and clone it into my GitHub repositories.
+After cloning the repository into my Android Studio, I ran the application and was brought to a "Hello, World!" screen with a text field that
+allowed me to input my name along with a button that says "Click Me". After entering my full name and pressed the button, the "Hello, World!"
+changed to "Hi, Johnny Tan".
+
